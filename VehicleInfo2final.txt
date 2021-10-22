@@ -1,0 +1,7 @@
+Year	Make	Model	Cylinders	Transmission	Vehicle Class	CombineMpg	citympg	Highway mpg
+2000	Nissan	Altra EV	4	Automatic	Compact 	35	20	40
+1999	GMC	EV1	6	Manual 5-speed	SUV	22	11	33
+2008 	Mini Cooper	MiniE	4	Manual 5-speed	Compact	20	18	26
+2011	Nissan	Lead	4	Automatic	Compact Electric	40	35	55
+1995	Honda	Civic	4	Automatic	Compact Sedan	15	22	26
+1975	Chevrolet 	Blazer K5	8	Manual 5-speed	SUV	10	6	15
